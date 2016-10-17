@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>GalMUN 2017</title>
+    <title><img src="img/logo.jpeg">GalMUN 2017</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -43,7 +43,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">GALMUN</a>
+                <a class="navbar-brand page-scroll" href="#page-top">GalMUN</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -76,7 +76,8 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-heading">Welcome To GALMUN 2017!</div>
+                <div class="intro-heading">GalMUN 2017</div>
+		    <div style="color:white; font-size=50%;"> The Galille Model United Nations Conference of 2017.</div>
             </div>
         </div>
     </header>
