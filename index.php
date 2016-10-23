@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title><img src="img/logo.jpeg">GalMUN 2017</title>
+    <title><img src="img/logo.jpg">GalMUN 2017</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -76,8 +76,17 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-heading">GalMUN 2017</div>
-		    <div style="color:white; font-size=50%;"> The Galille Model United Nations Conference of 2017.</div>
+                <div class="intro-heading">GalMUN</div>
+		    <div style="color:white; font-size=200%;"> Saint Joseph's Seminary and High School's Galille Model United Nations Conference.</div>
+		    <div style="color:white; font-size=100%;">It is with great pleasure that we invite you to our third GALMUN conference hosted by St. Joseph Seminary & High School-Almotran. The conference will take place on March 21-22, 2017 at the Golden Crown Hotel in Nazareth. It is our School’s vision to bring up generations of future leaders who are devoted to research, virtue and peace, and to building bridges between diverse communities.
+Our third conference will be aimed at bringing students from different backgrounds together for a two-day debate. It will help them become global citizens, exposing them to significant issues both nationally and internationally. They will conduct research at a high level, improve their public speaking skills and develop their English beyond the classroom setting. 
+The conference is designed for students from Grades 10-12 and we welcome new delegates as well as those with previous experience. Delegates will be required to prepare position papers and draft clauses that address the issues of their committees. Due to increased interest in our conference, this year we can only guarantee 8 delegates per school. However, we will keep a waiting list for any additional places that become available. A registration form is attached with this invitation, in addition to a letter providing detailed information about the conference.
+This year, the conference theme is Combatting Violence and Promoting Peaceful Resolutions. The debate will take place in eight different  committees. The committees and topics will be announced at the end of October. 
+We look forward to seeing you at our conference in Nazareth and we hope that it will be a fruitful and enjoyable experience for all of us.
+
+Sincerely,
+GALMUN Team
+</div>
             </div>
         </div>
     </header>
