@@ -91,7 +91,7 @@ body {background-color:white;}
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">About</a>
+                        <a class="page-scroll" href="#about">About Us</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#portfolio">GalMUN 2017</a>
